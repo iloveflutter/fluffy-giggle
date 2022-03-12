@@ -1,0 +1,1 @@
+print("I am not writing whole java code..sorry")
